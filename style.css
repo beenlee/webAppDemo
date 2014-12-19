@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+.phone{
+	width:360px;
+	height:660px;
+	background: url("./u0.png") no-repeat;
+	background-size:100% 100%;
+	display:block;
+	position:relative;
+	
+}
+
+.screen{
+	width:310px;
+	height:530px;
+	position:absolute;
+	background: url("./u2.png") no-repeat;
+	background-size:100% 100%;
+	top:63px;
+	left:31px;
+	overflow:hidden;
+}
